@@ -1,4 +1,4 @@
-# Countdown
+# Count Up!
 
 ## Project setup
 ```
